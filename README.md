@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahmoud Ahmed Mohamed Ahmed Essa  
+#  Hi, I'm Mahmoud Ahmed Mohamed Ahmed Essa  
 
  4th-year **Data Science student** at Alexandria University (Applied AI specialization).  
  Passionate about **Machine Learning, AI for Healthcare & Education, and Data Engineering**.  
@@ -45,7 +45,7 @@
 
 ##  Certifications  
 - AI & ML Training Certificate — MAIM-DS Training (2025)
-👉[Certificate link] https://training.maim-ds.com/certificate?cert_hash=9b828c6d6e4e5ab5
+👉[https://training.maim-ds.com/certificate?cert_hash=9b828c6d6e4e5ab5}]
 
 ---
 
