@@ -1,15 +1,15 @@
 #  Hi, I'm Mahmoud Ahmed Mohamed Ahmed Essa  
 
- 4th-year **Data Science student** at Alexandria University (Applied AI specialization).  
- Passionate about **Machine Learning, AI for Healthcare & Education, and Data Engineering**.  
- Currently leading a graduation project on an **AI-Integrated Medical Clinic Management System**.  
+ **Data Science gradute** at Alexandria University (Applied AI specialization).  
+ Passionate about **Machine Learning, Applied AI , and Data Engineering**.  
+ leads a graduation project on an **AI-Integrated Medical Clinic Management System (Clinify)**.  
 
 ---
 
 ##  Featured Projects  
 
 ###  AI-Integrated Medical Clinic Management System (Graduation Project)  
-- Team Lead of a 6-member group developing a clinic management system with AI-driven modules.  
+- Team Lead of a 8-member group developing a clinic management system with AI-driven modules.  
 - Focus areas: patient flow prediction, appointment optimization, intelligent record management.  
 - Tools: Python, Pandas, NumPy, Scikit-learn, TensorFlow, Flask, GitHub.  
  
@@ -18,7 +18,7 @@
 
 ###  Student Academic Risk Prediction System  
 - Built a machine learning pipeline to classify students into academic risk categories (Low, Medium, High).  
-- Achieved **87.7% accuracy** using Random Forest; also tested Logistic Regression, SVM, Gradient Boosting.  
+- Achieved **94.7% accuracy** using Random Forest; also tested Logistic Regression, SVM, Gradient Boosting.  
 - Deployed a **Flask web app** for real-time predictions.  
 - Tools: Python, Pandas, Scikit-learn, SMOTE, Flask.  
 👉 [Project Repository](#) *(https://github.com/mahmmoudessa/Student-Academic-Risk-Prediction)*  
@@ -46,6 +46,7 @@
 ##  Certifications  
 - AI & ML Training Certificate — MAIM-DS Training (2025)
 👉[https://training.maim-ds.com/certificate?cert_hash=9b828c6d6e4e5ab5}]
+
 
 ---
 
